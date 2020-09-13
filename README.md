@@ -1,13 +1,16 @@
 # Hi there, I'm Sagar <img src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/wave.gif" width="30px">
 
 ---
+
 ### I'm a Student and a Developer!
 
 <!-- - 🔭 I’m currently working on a Deep Learning Project. -->
 - 🌱 I’m currently learning Machine Learning. 
 - 👯 I’m looking to work on some real world Machine Learning projects. 
 - ⚡ Fun fact: I love to play Football and Chess. 
+
 ---
+
 ### Connect with me:
 
 [<img align="left" alt="Sagar Mandiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
@@ -21,6 +24,7 @@
 [facebook]: https://www.facebook.com/sagar.mandiya.5/
 
 ---
+
 ### Languages and Tools:
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) 
