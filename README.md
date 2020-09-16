@@ -4,9 +4,10 @@
 ### I'm a Student and a Developer!
 
 <!-- - 🔭 I’m currently working on a Deep Learning Project. -->
-- 🌱 I’m currently learning Machine Learning. 
-- 👯 I’m looking to work on some real world Machine Learning projects. 
-- ⚡ Fun fact: I love to play Football and Chess. 
+- 🌱 I’m currently learning about Data Structures and Algorithms and how to maximize code efficiency. 
+- 👯 I’m looking to collaborate on AI or Deep Learning Projects. 
+- 💬 Ask me about Python, Pandas, Numpy, Opencv, Tensorflow, Keras, CNN, sklearn
+- ⚡ Fun fact: I love to play Football(Madridista), Video games(Played every game of Assassin's Creed Franchise) and watch Anime(Naruto and One Piece being some of my favorites). 
 ---
 ### Languages and Tools:
 
