@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning about Data Structures and Algorithms and how to maximize code efficiency. 
 - 👯 I’m looking to collaborate on AI or Deep Learning Projects. 
 - 💬 Ask me about Python, Pandas, Numpy, Opencv, Tensorflow, Keras, CNN, sklearn
-- ⚡ Fun fact: I love to play Football(Madridista), Video games(Played every game of Assassin's Creed Franchise) and watch Anime(Naruto and One Piece being some of my favorites). 
+- ⚡ Fun fact: I love to play Football(Madridista), Video games(Played every game of Assassin's Creed Franchise). 
 ---
 ### Languages and Tools:
 
