@@ -19,16 +19,16 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Tools-Jupyter_Notebook-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=github&logoColor=white&color=2bbc8a) 
 
 ---
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="Sagar Mandiya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="Sagar Mandiya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
-[<img align="left" alt="Sagar Mandiya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] 
-[<img align="left" alt="Sagar Mandiya | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<!-- [<img align="left" alt="Sagar Mandiya | Twitter" width="22px" src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/twitter.svg" />][twitter] -->
+[<img align="left" alt="Sagar Mandiya | LinkedIn" width="22px" src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/linkedin.svg" />][linkedin] 
+[<img align="left" alt="Sagar Mandiya | Instagram" width="22px" src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/instagram.svg" />][instagram] 
+[<img align="left" alt="Sagar Mandiya | Facebook" width="22px" src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/facebook.svg" />][facebook]
 
 [twitter]: https://twitter.com/sagar_mandiya
 [instagram]: https://www.instagram.com/sagar_mandiya/
