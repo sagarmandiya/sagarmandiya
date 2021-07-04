@@ -35,4 +35,4 @@
 [instagram]: https://www.instagram.com/sagar_mandiya/
 [linkedin]: https://www.linkedin.com/in/sagar-m-647a2b183
 [facebook]: https://www.facebook.com/sagar.mandiya.5/
-[Blog]: https://www.sagarmandiya.me/blog/
+[Blog]: https://www.sagarmandiya.me/blog
