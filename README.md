@@ -29,8 +29,10 @@
 [<img align="left" alt="Sagar Mandiya | LinkedIn" width="22px" src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/linkedin.svg" />][linkedin] 
 [<img align="left" alt="Sagar Mandiya | Instagram" width="22px" src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/instagram.svg" />][instagram] 
 [<img align="left" alt="Sagar Mandiya | Facebook" width="22px" src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/facebook.svg" />][facebook]
+[<img align="left" alt="Sagar Mandiya | Facebook" width="22px" src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/website.svg" />][blog]
 
 [twitter]: https://twitter.com/sagar_mandiya
 [instagram]: https://www.instagram.com/sagar_mandiya/
 [linkedin]: https://www.linkedin.com/in/sagar-m-647a2b183
 [facebook]: https://www.facebook.com/sagar.mandiya.5/
+[Blog]: https://www.sagarmandiya.me/blog/
