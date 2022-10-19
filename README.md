@@ -6,7 +6,7 @@
 <!-- - 🔭 I’m currently working on a Deep Learning Project. -->
 - 🌱 I’m currently learning about Data Structures and Algorithms and how to maximize code efficiency. 
 - 👯 I’m looking to collaborate on AI or Deep Learning Projects. 
-- 💬 Ask me about Python, Pandas, Numpy, Opencv, Tensorflow, Keras, CNN, sklearn
+- 💬 Ask me about Python, C++, Computer Vision, Natural Lanuage Processing. 
 - ⚡ Fun fact: I love to play Football(Madridista), Video games(Played every game of Assassin's Creed Franchise). 
 ---
 ### Languages and Tools:
