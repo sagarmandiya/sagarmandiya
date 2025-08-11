@@ -1,13 +1,13 @@
 # Hi there, I'm Sagar <img src="https://raw.githubusercontent.com/sagarmandiya/sagarmandiya/master/wave.gif" width="30px">
 
 ---
-### I'm a Student and a Developer!
+### I'm a Developer!
 
 <!-- - 🔭 I’m currently working on a Deep Learning Project. -->
 - 🌱 I’m currently working on Generative AI and transformers. 
 - 👯 I’m looking to collaborate on AI and Deep Learning Projects. 
 - 💬 Ask me about Python, C++, Computer Vision, Natural Lanuage Processing. 
-- ⚡ Fun fact: I love to play Football(Madridista), Video games(Played every game of Assassin's Creed Franchise😄). 
+- ⚡ Fun fact: I love to play Football(Madridista). 
 - 🚀 Let's connect and collaborate on exciting opportunities!
 <!-- - 🔍 Feel free to explore my GitHub for more projects and code samples.  -->
 ---
