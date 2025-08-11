@@ -40,6 +40,6 @@
 
 [twitter]: https://twitter.com/sagar_mandiya
 [instagram]: https://www.instagram.com/sagar_mandiya/
-[linkedin]: https://www.linkedin.com/in/sagar-m-647a2b183
+[linkedin]: https://www.linkedin.com/in/smandiya
 [facebook]: https://www.facebook.com/sagar.mandiya.5/
 [Blog]: https://www.sagarmandiya.com/blog
